@@ -62,3 +62,7 @@ def imprimir_indices(peptido)
   indices_region
 end
 ```
+
+#### Diseñá un juego de mesa o un videojuego (hecho con la herramienta que más te guste) temático sobre expresión génica, con sus reglas y resúmen. Tené en cuenta que lo vas a tener que compartir con la clase.
+
+El juego trata de una célula que acaba de expulsar cadenas de ARN, el jugador debe clickear el botón para hacer aparecer a los ribosomas y así crear proteínas. Si el jugador no llega a hacer aparecer los 3 ribosomas a tiempo, pierde el juego.
