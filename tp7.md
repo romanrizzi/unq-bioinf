@@ -1,4 +1,4 @@
-### TP 5 - Introducción a la bioinformática
+### TP 7 - Introducción a la bioinformática
 Alumno: __Roman Rizzi__
 
 #### RETO I: ¿Podés descubrir y anotar el orden en que se ha ejecutado cada operación?
